@@ -1,0 +1,78 @@
+[
+	{
+		"name": {
+			"title": "mr",
+			"first": "freddie",
+			"last": "hudson"
+		},
+		"location": {
+			"street": "2129 miller ave",
+			"city": "new orleans",
+			"state": "new hampshire",
+			"postcode": 92432
+		},
+		"email": "freddie.hudson@example.com",
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/men/5.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+		}
+	},
+	{
+		"name": {
+			"title": "miss",
+			"first": "constance",
+			"last": "grant"
+		},
+		"location": {
+			"street": "6387 preston rd",
+			"city": "mckinney",
+			"state": "washington",
+			"postcode": 23445
+		},
+		"email": "constance.grant@example.com",
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/women/8.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+		}
+	},
+	{
+		"name": {
+			"title": "mr",
+			"first": "melvin",
+			"last": "willis"
+		},
+		"location": {
+			"street": "3175 adams st",
+			"city": "shelby",
+			"state": "rhode island",
+			"postcode": 68489
+		},
+		"email": "melvin.willis@example.com",
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/men/50.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+		}
+	},
+	{
+		"name": {
+			"title": "miss",
+			"first": "tara",
+			"last": "graves"
+		},
+		"location": {
+			"street": "5748 parker rd",
+			"city": "odessa",
+			"state": "illinois",
+			"postcode": 83360
+		},
+		"email": "tara.graves@example.com",
+		"picture": {
+			"large": "https://randomuser.me/api/portraits/women/17.jpg",
+			"medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+			"thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+		}
+	}
+]

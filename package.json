@@ -1,0 +1,23 @@
+{
+  "name": "random-user-generator",
+  "version": "1.0.0",
+  "description": "generating ensemblist users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-tambo/random-user-generator.git"
+  },
+  "author": "m-tambo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-tambo/random-user-generator/issues"
+  },
+  "homepage": "https://github.com/m-tambo/random-user-generator#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}
