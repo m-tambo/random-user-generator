@@ -1,8 +1,8 @@
 const rp = require('request-promise')
-const { writeFile } = require('fs')
+const { writeFile, appendFile } = require('fs')
 const { factory } = require('./factory.js')
 
-const results = 1000 // the api returns a max of 5000 users
+const results = 5000 // the api returns a max of 5000 users
 
 const getRandos = () => {
   rp({ // make http call
@@ -13,8 +13,8 @@ const getRandos = () => {
     return factory(data.results)
   })
   .then((newData) => { // stringify and write to json file
-    strungData = JSON.stringify(newData) // add parameters null and '\t' to prettify
-    writeFile('randomUsers.json', strungData, function(err) {
+    strungData = JSON.stringify(newData, null, '\t') // add parameters null and '\t' to prettify
+    appendFile('randomUsers.json', strungData, function(err) { // can use writeFile or appendFile
       err ? console.log(err) : console.log("Random users saved to json")
     })
   })
