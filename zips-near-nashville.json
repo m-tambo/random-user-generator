@@ -1,0 +1,2980 @@
+{
+  "zip_codes": [
+    {
+      "zip_code": "35801",
+      "distance": 99.475,
+      "city": "Huntsville",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35767",
+      "distance": 99.419,
+      "city": "Ryland",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35816",
+      "distance": 98.29,
+      "city": "Huntsville",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35896",
+      "distance": 97.255,
+      "city": "Huntsville",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35806",
+      "distance": 96.831,
+      "city": "Huntsville",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35774",
+      "distance": 99.7,
+      "city": "Trenton",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35742",
+      "distance": 98.065,
+      "city": "Capshaw",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35611",
+      "distance": 98.708,
+      "city": "Athens",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35612",
+      "distance": 96.779,
+      "city": "Athens",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35757",
+      "distance": 95.3,
+      "city": "Madison",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35762",
+      "distance": 94.822,
+      "city": "Normal",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35811",
+      "distance": 94.873,
+      "city": "Huntsville",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35810",
+      "distance": 93.979,
+      "city": "Huntsville",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35751",
+      "distance": 95.945,
+      "city": "Hollytree",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35613",
+      "distance": 93.486,
+      "city": "Athens",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35749",
+      "distance": 92.709,
+      "city": "Harvest",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35746",
+      "distance": 99.436,
+      "city": "Fackler",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35652",
+      "distance": 97.745,
+      "city": "Rogersville",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35614",
+      "distance": 92.171,
+      "city": "Athens",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35766",
+      "distance": 91.853,
+      "city": "Princeton",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35759",
+      "distance": 89.676,
+      "city": "Meridianville",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35773",
+      "distance": 87.85,
+      "city": "Toney",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35645",
+      "distance": 98.729,
+      "city": "Killen",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35761",
+      "distance": 87.331,
+      "city": "New Market",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35620",
+      "distance": 87.317,
+      "city": "Elkmont",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35772",
+      "distance": 93.868,
+      "city": "Stevenson",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35745",
+      "distance": 88.605,
+      "city": "Estillfork",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35610",
+      "distance": 89.492,
+      "city": "Anderson",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35750",
+      "distance": 83.453,
+      "city": "Hazel Green",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35648",
+      "distance": 92.413,
+      "city": "Lexington",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35740",
+      "distance": 96.743,
+      "city": "Bridgeport",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35647",
+      "distance": 86.26,
+      "city": "Lester",
+      "state": "AL"
+    },
+    {
+      "zip_code": "35739",
+      "distance": 82.746,
+      "city": "Ardmore",
+      "state": "AL"
+    },
+    {
+      "zip_code": "37345",
+      "distance": 83.381,
+      "city": "Huntland",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38473",
+      "distance": 83.701,
+      "city": "Minor Hill",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38457",
+      "distance": 85.528,
+      "city": "Five Points",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38481",
+      "distance": 90.753,
+      "city": "Saint Joseph",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37328",
+      "distance": 79.715,
+      "city": "Elora",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38449",
+      "distance": 77.945,
+      "city": "Ardmore",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38488",
+      "distance": 77.335,
+      "city": "Taft",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38455",
+      "distance": 78.227,
+      "city": "Elkton",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37376",
+      "distance": 86.845,
+      "city": "Sherwood",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37347",
+      "distance": 96.376,
+      "city": "Jasper",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38477",
+      "distance": 77.945,
+      "city": "Prospect",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37335",
+      "distance": 77.011,
+      "city": "Flintville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38463",
+      "distance": 93.193,
+      "city": "Iron City",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37380",
+      "distance": 91.284,
+      "city": "South Pittsburg",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38469",
+      "distance": 86.364,
+      "city": "Loretto",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38452",
+      "distance": 97.883,
+      "city": "Cypress Inn",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38460",
+      "distance": 78.965,
+      "city": "Goodspring",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37306",
+      "distance": 78.373,
+      "city": "Belvidere",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38453",
+      "distance": 72.352,
+      "city": "Dellrose",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37348",
+      "distance": 72.435,
+      "city": "Kelso",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38468",
+      "distance": 79.051,
+      "city": "Leoma",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37375",
+      "distance": 82.497,
+      "city": "Sewanee",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37334",
+      "distance": 68.984,
+      "city": "Fayetteville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37374",
+      "distance": 89.542,
+      "city": "Sequatchie",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38486",
+      "distance": 84.278,
+      "city": "Westpoint",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37318",
+      "distance": 77.926,
+      "city": "Cowan",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37398",
+      "distance": 74.07,
+      "city": "Winchester",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38450",
+      "distance": 92.39,
+      "city": "Collinwood",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38459",
+      "distance": 67.301,
+      "city": "Frankewing",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37383",
+      "distance": 78.701,
+      "city": "Sewanee",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37359",
+      "distance": 67.753,
+      "city": "Mulberry",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37377",
+      "distance": 99.96,
+      "city": "Signal Mountain",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37397",
+      "distance": 91.635,
+      "city": "Whitwell",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37356",
+      "distance": 80.1,
+      "city": "Monteagle",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38478",
+      "distance": 66.905,
+      "city": "Pulaski",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37324",
+      "distance": 74.381,
+      "city": "Decherd",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38475",
+      "distance": 98.176,
+      "city": "Olivehill",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37387",
+      "distance": 80.371,
+      "city": "Tracy City",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37352",
+      "distance": 63.673,
+      "city": "Lynchburg",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37330",
+      "distance": 68.1,
+      "city": "Estill Springs",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38464",
+      "distance": 73.875,
+      "city": "Lawrenceburg",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37144",
+      "distance": 59.214,
+      "city": "Petersburg",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37047",
+      "distance": 59.105,
+      "city": "Cornersville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38456",
+      "distance": 66.176,
+      "city": "Ethridge",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37366",
+      "distance": 73.874,
+      "city": "Pelham",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37388",
+      "distance": 61.91,
+      "city": "Tullahoma",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38485",
+      "distance": 83.562,
+      "city": "Waynesboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37313",
+      "distance": 77.295,
+      "city": "Coalmont",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37389",
+      "distance": 62.294,
+      "city": "Arnold Afb",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38472",
+      "distance": 57.997,
+      "city": "Lynnville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37339",
+      "distance": 79.352,
+      "city": "Gruetli Laager",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37365",
+      "distance": 82.341,
+      "city": "Palmer",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37342",
+      "distance": 66.875,
+      "city": "Hillsboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37019",
+      "distance": 53.239,
+      "city": "Belfast",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38425",
+      "distance": 88.157,
+      "city": "Clifton",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37301",
+      "distance": 71.173,
+      "city": "Altamont",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37338",
+      "distance": 96.253,
+      "city": "Graysville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38311",
+      "distance": 94.674,
+      "city": "Bath Springs",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37360",
+      "distance": 55.237,
+      "city": "Normandy",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37327",
+      "distance": 86.34,
+      "city": "Dunlap",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38483",
+      "distance": 62.165,
+      "city": "Summertown",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37160",
+      "distance": 49.91,
+      "city": "Shelbyville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37349",
+      "distance": 58.729,
+      "city": "Manchester",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38451",
+      "distance": 51.716,
+      "city": "Culleoka",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37305",
+      "distance": 72.88,
+      "city": "Beersheba Springs",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37091",
+      "distance": 46.811,
+      "city": "Lewisburg",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37161",
+      "distance": 48.212,
+      "city": "Shelbyville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37162",
+      "distance": 48.212,
+      "city": "Shelbyville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37183",
+      "distance": 50.524,
+      "city": "Wartrace",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37355",
+      "distance": 56.345,
+      "city": "Manchester",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38374",
+      "distance": 98.463,
+      "city": "Scotts Hill",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38474",
+      "distance": 54.299,
+      "city": "Mount Pleasant",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38462",
+      "distance": 66.446,
+      "city": "Hohenwald",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38329",
+      "distance": 91.315,
+      "city": "Decaturville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37394",
+      "distance": 62.555,
+      "city": "Viola",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37382",
+      "distance": 58.206,
+      "city": "Summitville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37357",
+      "distance": 58.036,
+      "city": "Morrison",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38461",
+      "distance": 54.404,
+      "city": "Hampshire",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37180",
+      "distance": 38.684,
+      "city": "Unionville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37096",
+      "distance": 77.167,
+      "city": "Linden",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38585",
+      "distance": 76.22,
+      "city": "Spencer",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38402",
+      "distance": 42.778,
+      "city": "Columbia",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37367",
+      "distance": 88.393,
+      "city": "Pikeville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38401",
+      "distance": 41.731,
+      "city": "Columbia",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37378",
+      "distance": 59.28,
+      "city": "Smartt",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37018",
+      "distance": 44.832,
+      "city": "Beechgrove",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37020",
+      "distance": 39.338,
+      "city": "Bell Buckle",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37110",
+      "distance": 63.1,
+      "city": "Mcminnville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37063",
+      "distance": 38.5,
+      "city": "Fosterville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37034",
+      "distance": 35.27,
+      "city": "Chapel Hill",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37111",
+      "distance": 60.413,
+      "city": "Mcminnville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38328",
+      "distance": 92.614,
+      "city": "Darden",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38363",
+      "distance": 86.971,
+      "city": "Parsons",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37026",
+      "distance": 45.103,
+      "city": "Bradyville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37037",
+      "distance": 36.417,
+      "city": "Christiana",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38487",
+      "distance": 43.94,
+      "city": "Williamsport",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37174",
+      "distance": 33.105,
+      "city": "Spring Hill",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38454",
+      "distance": 48.189,
+      "city": "Duck River",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38581",
+      "distance": 65.524,
+      "city": "Rock Island",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37033",
+      "distance": 57.41,
+      "city": "Centerville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37060",
+      "distance": 28.852,
+      "city": "Eagleville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38550",
+      "distance": 63.992,
+      "city": "Campaign",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37153",
+      "distance": 28.291,
+      "city": "Rockvale",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38482",
+      "distance": 38.159,
+      "city": "Santa Fe",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37097",
+      "distance": 69.661,
+      "city": "Lobelville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38380",
+      "distance": 80.935,
+      "city": "Sugar Tree",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37127",
+      "distance": 32.568,
+      "city": "Murfreesboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38388",
+      "distance": 95.881,
+      "city": "Wildersville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37046",
+      "distance": 26.331,
+      "city": "College Grove",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37128",
+      "distance": 28.021,
+      "city": "Murfreesboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37149",
+      "distance": 36.416,
+      "city": "Readyville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38559",
+      "distance": 69.438,
+      "city": "Doyle",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37179",
+      "distance": 28.084,
+      "city": "Thompsons Station",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37190",
+      "distance": 43.469,
+      "city": "Woodbury",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38579",
+      "distance": 66.668,
+      "city": "Quebeck",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38390",
+      "distance": 97.678,
+      "city": "Yuma",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38476",
+      "distance": 37.598,
+      "city": "Primm Springs",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38572",
+      "distance": 88.851,
+      "city": "Crossville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37132",
+      "distance": 27.585,
+      "city": "Murfreesboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37131",
+      "distance": 26.672,
+      "city": "Murfreesboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37133",
+      "distance": 26.672,
+      "city": "Murfreesboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37140",
+      "distance": 58.743,
+      "city": "Only",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38587",
+      "distance": 62.521,
+      "city": "Walling",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38324",
+      "distance": 97.626,
+      "city": "Clarksburg",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37098",
+      "distance": 41.409,
+      "city": "Lyles",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38387",
+      "distance": 91.98,
+      "city": "Westport",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37014",
+      "distance": 19.938,
+      "city": "Arrington",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38341",
+      "distance": 81.37,
+      "city": "Holladay",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37130",
+      "distance": 27.593,
+      "city": "Murfreesboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37137",
+      "distance": 50.449,
+      "city": "Nunnelly",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37064",
+      "distance": 24.866,
+      "city": "Franklin",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38555",
+      "distance": 95.86,
+      "city": "Crossville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37078",
+      "distance": 62.577,
+      "city": "Hurricane Mills",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37067",
+      "distance": 18.315,
+      "city": "Franklin",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37135",
+      "distance": 17.061,
+      "city": "Nolensville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37166",
+      "distance": 52.194,
+      "city": "Smithville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37065",
+      "distance": 19.214,
+      "city": "Franklin",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37068",
+      "distance": 19.214,
+      "city": "Franklin",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37118",
+      "distance": 31.273,
+      "city": "Milton",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37129",
+      "distance": 20.348,
+      "city": "Murfreesboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38583",
+      "distance": 70.246,
+      "city": "Sparta",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38318",
+      "distance": 89.002,
+      "city": "Buena Vista",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37025",
+      "distance": 38.523,
+      "city": "Bon Aqua",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38557",
+      "distance": 92.823,
+      "city": "Crossville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37085",
+      "distance": 26.081,
+      "city": "Lascassas",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37016",
+      "distance": 34.872,
+      "city": "Auburntown",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37167",
+      "distance": 16.017,
+      "city": "Smyrna",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37095",
+      "distance": 41.298,
+      "city": "Liberty",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38344",
+      "distance": 98.736,
+      "city": "Huntingdon",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38578",
+      "distance": 83.172,
+      "city": "Pleasant Hill",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37059",
+      "distance": 44.589,
+      "city": "Dowelltown",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37069",
+      "distance": 17.733,
+      "city": "Franklin",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37024",
+      "distance": 13.374,
+      "city": "Brentwood",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37089",
+      "distance": 13.161,
+      "city": "La Vergne",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37062",
+      "distance": 28.55,
+      "city": "Fairview",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37134",
+      "distance": 72.277,
+      "city": "New Johnsonville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37027",
+      "distance": 12.947,
+      "city": "Brentwood",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37086",
+      "distance": 11.488,
+      "city": "La Vergne",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37011",
+      "distance": 8.615,
+      "city": "Antioch",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37029",
+      "distance": 34.119,
+      "city": "Burns",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37221",
+      "distance": 18.311,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38571",
+      "distance": 92.874,
+      "city": "Crossville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38320",
+      "distance": 80.863,
+      "city": "Camden",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37013",
+      "distance": 7.893,
+      "city": "Antioch",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38317",
+      "distance": 89.201,
+      "city": "Bruceton",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37101",
+      "distance": 53.968,
+      "city": "Mc Ewen",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37185",
+      "distance": 66.609,
+      "city": "Waverly",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37211",
+      "distance": 7.189,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37220",
+      "distance": 9.422,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37056",
+      "distance": 39.532,
+      "city": "Dickson",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38342",
+      "distance": 90.525,
+      "city": "Hollow Rock",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37012",
+      "distance": 37.847,
+      "city": "Alexandria",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37055",
+      "distance": 43.505,
+      "city": "Dickson",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37071",
+      "distance": 16.156,
+      "city": "Gladeville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37215",
+      "distance": 10.698,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37184",
+      "distance": 29.899,
+      "city": "Watertown",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38569",
+      "distance": 45.342,
+      "city": "Lancaster",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37082",
+      "distance": 25.245,
+      "city": "Kingston Springs",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38582",
+      "distance": 50.767,
+      "city": "Silver Point",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37204",
+      "distance": 6.941,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37217",
+      "distance": 3.776,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37136",
+      "distance": 21.565,
+      "city": "Norene",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37090",
+      "distance": 21.04,
+      "city": "Lebanon",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37205",
+      "distance": 11.66,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38544",
+      "distance": 56.296,
+      "city": "Baxter",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37143",
+      "distance": 20.248,
+      "city": "Pegram",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38333",
+      "distance": 71.646,
+      "city": "Eva",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38567",
+      "distance": 41.606,
+      "city": "Hickman",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37212",
+      "distance": 7.546,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38574",
+      "distance": 80.433,
+      "city": "Monterey",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37187",
+      "distance": 29.434,
+      "city": "White Bluff",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37240",
+      "distance": 7.607,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37076",
+      "distance": 5.371,
+      "city": "Hermitage",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37210",
+      "distance": 3.596,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37203",
+      "distance": 6.737,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38502",
+      "distance": 65.306,
+      "city": "Cookeville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38503",
+      "distance": 65.306,
+      "city": "Cookeville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38547",
+      "distance": 37.047,
+      "city": "Brush Creek",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37246",
+      "distance": 6.746,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37237",
+      "distance": 6.107,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37245",
+      "distance": 6.107,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37247",
+      "distance": 6.107,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37248",
+      "distance": 6.107,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37249",
+      "distance": 6.107,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37214",
+      "distance": 0,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37218",
+      "distance": 12.21,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38548",
+      "distance": 49.092,
+      "city": "Buffalo Valley",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37243",
+      "distance": 6.204,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37201",
+      "distance": 5.951,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37213",
+      "distance": 5.408,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37219",
+      "distance": 6.272,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38236",
+      "distance": 89.104,
+      "city": "Mansfield",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37202",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37222",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37224",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37227",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37229",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37230",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37232",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37234",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37235",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37236",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37238",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37241",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37242",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37244",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37250",
+      "distance": 6.129,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38505",
+      "distance": 65.009,
+      "city": "Cookeville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37208",
+      "distance": 7.745,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37206",
+      "distance": 3.558,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37122",
+      "distance": 10.622,
+      "city": "Mount Juliet",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37209",
+      "distance": 15.582,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38506",
+      "distance": 69.045,
+      "city": "Cookeville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37228",
+      "distance": 7.763,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37121",
+      "distance": 8.801,
+      "city": "Mount Juliet",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37088",
+      "distance": 19.729,
+      "city": "Lebanon",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38553",
+      "distance": 92.863,
+      "city": "Clarkrange",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38231",
+      "distance": 97.959,
+      "city": "Henry",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38563",
+      "distance": 36.282,
+      "city": "Gordonsville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37216",
+      "distance": 4.894,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38552",
+      "distance": 47.95,
+      "city": "Chestnut Mound",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38560",
+      "distance": 45.65,
+      "city": "Elmwood",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38501",
+      "distance": 63.569,
+      "city": "Cookeville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38545",
+      "distance": 56.401,
+      "city": "Bloomington Springs",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37207",
+      "distance": 7.684,
+      "city": "Nashville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37036",
+      "distance": 33.319,
+      "city": "Charlotte",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37138",
+      "distance": 6.606,
+      "city": "Old Hickory",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37181",
+      "distance": 44.861,
+      "city": "Vanleer",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38221",
+      "distance": 76.272,
+      "city": "Big Sandy",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38554",
+      "distance": 84.353,
+      "city": "Crawford",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37116",
+      "distance": 6.165,
+      "city": "Madison",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37115",
+      "distance": 6.481,
+      "city": "Madison",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38565",
+      "distance": 92.855,
+      "city": "Grimsley",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37087",
+      "distance": 23.467,
+      "city": "Lebanon",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37030",
+      "distance": 41.323,
+      "city": "Carthage",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38564",
+      "distance": 52.711,
+      "city": "Granville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37015",
+      "distance": 23.988,
+      "city": "Ashland City",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38589",
+      "distance": 89.221,
+      "city": "Wilder",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37061",
+      "distance": 54.443,
+      "city": "Erin",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37077",
+      "distance": 9.666,
+      "city": "Hendersonville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38580",
+      "distance": 76.928,
+      "city": "Rickman",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37165",
+      "distance": 45.515,
+      "city": "Slayden",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37189",
+      "distance": 13.139,
+      "city": "Whites Creek",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37051",
+      "distance": 42.377,
+      "city": "Cumberland Furnace",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38242",
+      "distance": 93.066,
+      "city": "Paris",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38256",
+      "distance": 82.017,
+      "city": "Springville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37151",
+      "distance": 36.441,
+      "city": "Riddleton",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38542",
+      "distance": 82.532,
+      "city": "Allred",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37178",
+      "distance": 63.38,
+      "city": "Tennessee Ridge",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37175",
+      "distance": 69.016,
+      "city": "Stewart",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37070",
+      "distance": 11.709,
+      "city": "Goodlettsville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37080",
+      "distance": 18.093,
+      "city": "Joelton",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37075",
+      "distance": 12.776,
+      "city": "Hendersonville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38543",
+      "distance": 85.711,
+      "city": "Alpine",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37072",
+      "distance": 13.787,
+      "city": "Goodlettsville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38562",
+      "distance": 57.973,
+      "city": "Gainesboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37171",
+      "distance": 37.447,
+      "city": "Southside",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37031",
+      "distance": 25.322,
+      "city": "Castalian Springs",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37050",
+      "distance": 55.465,
+      "city": "Cumberland City",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38570",
+      "distance": 76.324,
+      "city": "Livingston",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37052",
+      "distance": 43.389,
+      "city": "Cunningham",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37145",
+      "distance": 44.639,
+      "city": "Pleasant Shade",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37035",
+      "distance": 29.897,
+      "city": "Chapmansboro",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37152",
+      "distance": 16.68,
+      "city": "Ridgetop",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37066",
+      "distance": 20.277,
+      "city": "Gallatin",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37146",
+      "distance": 26.081,
+      "city": "Pleasant View",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38556",
+      "distance": 99.003,
+      "city": "Jamestown",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37142",
+      "distance": 49.779,
+      "city": "Palmyra",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37057",
+      "distance": 39.816,
+      "city": "Dixon Springs",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37074",
+      "distance": 34.122,
+      "city": "Hartsville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37073",
+      "distance": 20.369,
+      "city": "Greenbrier",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38568",
+      "distance": 69.359,
+      "city": "Hilham",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37058",
+      "distance": 69.929,
+      "city": "Dover",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38222",
+      "distance": 85.103,
+      "city": "Buchanan",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38588",
+      "distance": 55.914,
+      "city": "Whitleyville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38251",
+      "distance": 96.046,
+      "city": "Puryear",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37079",
+      "distance": 58.297,
+      "city": "Indian Mound",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37188",
+      "distance": 21.986,
+      "city": "White House",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37043",
+      "distance": 38.823,
+      "city": "Clarksville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37048",
+      "distance": 23.124,
+      "city": "Cottontown",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38573",
+      "distance": 83.718,
+      "city": "Monroe",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37191",
+      "distance": 53.175,
+      "city": "Woodlawn",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37022",
+      "distance": 31.306,
+      "city": "Bethpage",
+      "state": "TN"
+    },
+    {
+      "zip_code": "42049",
+      "distance": 95.803,
+      "city": "Hazel",
+      "state": "KY"
+    },
+    {
+      "zip_code": "37040",
+      "distance": 44.565,
+      "city": "Clarksville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37032",
+      "distance": 31.59,
+      "city": "Cedar Hill",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37172",
+      "distance": 27.71,
+      "city": "Springfield",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37083",
+      "distance": 44.851,
+      "city": "Lafayette",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38541",
+      "distance": 78.697,
+      "city": "Allons",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37150",
+      "distance": 54.59,
+      "city": "Red Boiling Springs",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38575",
+      "distance": 63.634,
+      "city": "Moss",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37049",
+      "distance": 27.284,
+      "city": "Cross Plains",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38551",
+      "distance": 71.317,
+      "city": "Celina",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37041",
+      "distance": 46.281,
+      "city": "Clarksville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37044",
+      "distance": 46.281,
+      "city": "Clarksville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38549",
+      "distance": 89.066,
+      "city": "Byrdstown",
+      "state": "TN"
+    },
+    {
+      "zip_code": "38577",
+      "distance": 98.519,
+      "city": "Pall Mall",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37148",
+      "distance": 29.598,
+      "city": "Portland",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37042",
+      "distance": 50.091,
+      "city": "Clarksville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "42076",
+      "distance": 84.771,
+      "city": "New Concord",
+      "state": "KY"
+    },
+    {
+      "zip_code": "37010",
+      "distance": 37.34,
+      "city": "Adams",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37023",
+      "distance": 68.638,
+      "city": "Big Rock",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37186",
+      "distance": 39.064,
+      "city": "Westmoreland",
+      "state": "TN"
+    },
+    {
+      "zip_code": "37141",
+      "distance": 31.329,
+      "city": "Orlinda",
+      "state": "TN"
+    },
+    {
+      "zip_code": "42071",
+      "distance": 95.283,
+      "city": "Murray",
+      "state": "KY"
+    },
+    {
+      "zip_code": "37028",
+      "distance": 73.696,
+      "city": "Bumpus Mills",
+      "state": "TN"
+    },
+    {
+      "zip_code": "42223",
+      "distance": 54.583,
+      "city": "Fort Campbell",
+      "state": "KY"
+    },
+    {
+      "zip_code": "37119",
+      "distance": 33.26,
+      "city": "Mitchellville",
+      "state": "TN"
+    },
+    {
+      "zip_code": "42151",
+      "distance": 70.647,
+      "city": "Hestand",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42140",
+      "distance": 57.94,
+      "city": "Gamaliel",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42254",
+      "distance": 64.654,
+      "city": "La Fayette",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42153",
+      "distance": 48.237,
+      "city": "Holland",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42120",
+      "distance": 41.963,
+      "city": "Adolphus",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42262",
+      "distance": 56.158,
+      "city": "Oak Grove",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42202",
+      "distance": 37.249,
+      "city": "Adairville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42204",
+      "distance": 42.572,
+      "city": "Allensville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42020",
+      "distance": 97.189,
+      "city": "Almo",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42036",
+      "distance": 93.82,
+      "city": "Dexter",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42236",
+      "distance": 64.718,
+      "city": "Herndon",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42135",
+      "distance": 38.948,
+      "city": "Franklin",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42167",
+      "distance": 67.511,
+      "city": "Tompkinsville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42234",
+      "distance": 47.853,
+      "city": "Guthrie",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42134",
+      "distance": 39.299,
+      "city": "Franklin",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42133",
+      "distance": 55.63,
+      "city": "Fountain Run",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42286",
+      "distance": 52.151,
+      "city": "Trenton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42265",
+      "distance": 43.965,
+      "city": "Olmstead",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42602",
+      "distance": 95.444,
+      "city": "Albany",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42266",
+      "distance": 55.436,
+      "city": "Pembroke",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42048",
+      "distance": 96.086,
+      "city": "Hardin",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42164",
+      "distance": 50.339,
+      "city": "Scottsville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42157",
+      "distance": 63.758,
+      "city": "Mount Hermon",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42717",
+      "distance": 83.812,
+      "city": "Burkesville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42131",
+      "distance": 61.564,
+      "city": "Etoile",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42759",
+      "distance": 78.941,
+      "city": "Marrowbone",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42123",
+      "distance": 59.26,
+      "city": "Austin",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42211",
+      "distance": 78.904,
+      "city": "Cadiz",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42128",
+      "distance": 48.051,
+      "city": "Drake",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42221",
+      "distance": 58.774,
+      "city": "Fairview",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42170",
+      "distance": 47.161,
+      "city": "Woodburn",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42731",
+      "distance": 77.89,
+      "city": "Dubre",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42241",
+      "distance": 65.796,
+      "city": "Hopkinsville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42156",
+      "distance": 58.666,
+      "city": "Lucas",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42276",
+      "distance": 49.377,
+      "city": "Russellville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42122",
+      "distance": 51.134,
+      "city": "Alvaton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42232",
+      "distance": 72.632,
+      "city": "Gracey",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42283",
+      "distance": 48.92,
+      "city": "South Union",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42124",
+      "distance": 75.138,
+      "city": "Beaumont",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42104",
+      "distance": 50.863,
+      "city": "Bowling Green",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42240",
+      "distance": 66.311,
+      "city": "Hopkinsville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42166",
+      "distance": 72.9,
+      "city": "Summer Shade",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42206",
+      "distance": 50.219,
+      "city": "Auburn",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42220",
+      "distance": 57.841,
+      "city": "Elkton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42629",
+      "distance": 99.637,
+      "city": "Jamestown",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42130",
+      "distance": 72.081,
+      "city": "Eighty Eight",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42103",
+      "distance": 58.291,
+      "city": "Bowling Green",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42141",
+      "distance": 68.467,
+      "city": "Glasgow",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42274",
+      "distance": 54.596,
+      "city": "Rockfield",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42715",
+      "distance": 89.746,
+      "city": "Breeding",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42280",
+      "distance": 59.845,
+      "city": "Sharon Grove",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42129",
+      "distance": 83.006,
+      "city": "Edmonton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42216",
+      "distance": 62.843,
+      "city": "Clifty",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42142",
+      "distance": 70.751,
+      "city": "Glasgow",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42159",
+      "distance": 62.092,
+      "city": "Oakland",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42215",
+      "distance": 79.845,
+      "city": "Cerulean",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42741",
+      "distance": 98.287,
+      "city": "Glens Fork",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42256",
+      "distance": 59.808,
+      "city": "Lewisburg",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42102",
+      "distance": 59.812,
+      "city": "Bowling Green",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42171",
+      "distance": 66.377,
+      "city": "Smiths Grove",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42217",
+      "distance": 74.793,
+      "city": "Crofton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42154",
+      "distance": 80.258,
+      "city": "Knob Lick",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42038",
+      "distance": 96.973,
+      "city": "Eddyville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42101",
+      "distance": 62.963,
+      "city": "Bowling Green",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42163",
+      "distance": 69.998,
+      "city": "Rocky Hill",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42742",
+      "distance": 94.378,
+      "city": "Gradyville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42339",
+      "distance": 66.574,
+      "city": "Dunmor",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42152",
+      "distance": 80.47,
+      "city": "Hiseville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42127",
+      "distance": 77.85,
+      "city": "Cave City",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42160",
+      "distance": 75.773,
+      "city": "Park City",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42445",
+      "distance": 93.741,
+      "city": "Princeton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42324",
+      "distance": 69.719,
+      "city": "Belton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42345",
+      "distance": 73.034,
+      "city": "Greenville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42214",
+      "distance": 86.846,
+      "city": "Center",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42453",
+      "distance": 85.637,
+      "city": "Saint Charles",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42321",
+      "distance": 72.522,
+      "city": "Beech Creek",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42442",
+      "distance": 82.91,
+      "city": "Nortonville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42323",
+      "distance": 72.737,
+      "city": "Beechmont",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42408",
+      "distance": 90.274,
+      "city": "Dawson Springs",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42219",
+      "distance": 70.498,
+      "city": "Dunbar",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42288",
+      "distance": 70.36,
+      "city": "Woodbury",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42464",
+      "distance": 79.998,
+      "city": "White Plains",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42749",
+      "distance": 83.165,
+      "city": "Horse Cave",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42337",
+      "distance": 73.246,
+      "city": "Drakesboro",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42210",
+      "distance": 75.794,
+      "city": "Brownsville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42746",
+      "distance": 89.27,
+      "city": "Hardyville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42273",
+      "distance": 73.382,
+      "city": "Rochester",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42275",
+      "distance": 73.828,
+      "city": "Roundhill",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42261",
+      "distance": 72.889,
+      "city": "Morgantown",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42326",
+      "distance": 75.765,
+      "city": "Browder",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42743",
+      "distance": 96.978,
+      "city": "Greensburg",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42252",
+      "distance": 74.316,
+      "city": "Jetson",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42367",
+      "distance": 79.214,
+      "city": "Powderly",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42440",
+      "distance": 86.535,
+      "city": "Mortons Gap",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42259",
+      "distance": 80.102,
+      "city": "Mammoth Cave",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42201",
+      "distance": 75.163,
+      "city": "Aberdeen",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42332",
+      "distance": 78.672,
+      "city": "Cleaton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42285",
+      "distance": 78.884,
+      "city": "Sweeden",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42344",
+      "distance": 84.552,
+      "city": "Graham",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42722",
+      "distance": 93.398,
+      "city": "Canmer",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42410",
+      "distance": 90.106,
+      "city": "Earlington",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42207",
+      "distance": 81.337,
+      "city": "Bee Spring",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42729",
+      "distance": 85.215,
+      "city": "Cub Run",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42287",
+      "distance": 79.743,
+      "city": "Welchs Creek",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42330",
+      "distance": 83.842,
+      "city": "Central City",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42374",
+      "distance": 84.739,
+      "city": "South Carrollton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42325",
+      "distance": 87.196,
+      "city": "Bremen",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42320",
+      "distance": 81.606,
+      "city": "Beaver Dam",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42765",
+      "distance": 90.596,
+      "city": "Munfordville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42431",
+      "distance": 92.6,
+      "city": "Madisonville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42782",
+      "distance": 99.119,
+      "city": "Summersville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42369",
+      "distance": 84.695,
+      "city": "Rockport",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42441",
+      "distance": 99.64,
+      "city": "Nebo",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42333",
+      "distance": 83.153,
+      "city": "Cromwell",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42436",
+      "distance": 97.557,
+      "city": "Manitou",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42354",
+      "distance": 85.224,
+      "city": "Mc Henry",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42713",
+      "distance": 94.947,
+      "city": "Bonnieville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42372",
+      "distance": 92.117,
+      "city": "Sacramento",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42721",
+      "distance": 87.623,
+      "city": "Caneyville",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42726",
+      "distance": 92.055,
+      "city": "Clarkson",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42349",
+      "distance": 87.62,
+      "city": "Horse Branch",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42328",
+      "distance": 90.077,
+      "city": "Centertown",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42413",
+      "distance": 99.205,
+      "city": "Hanson",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42370",
+      "distance": 88.994,
+      "city": "Rosine",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42784",
+      "distance": 98.037,
+      "city": "Upton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42350",
+      "distance": 93.779,
+      "city": "Island",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42762",
+      "distance": 90.662,
+      "city": "Millwood",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42754",
+      "distance": 92.664,
+      "city": "Leitchfield",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42755",
+      "distance": 93.458,
+      "city": "Leitchfield",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42371",
+      "distance": 99.213,
+      "city": "Rumsey",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42352",
+      "distance": 96.24,
+      "city": "Livermore",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42361",
+      "distance": 93.623,
+      "city": "Olaton",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42712",
+      "distance": 98.749,
+      "city": "Big Clifty",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42347",
+      "distance": 94.886,
+      "city": "Hartford",
+      "state": "KY"
+    },
+    {
+      "zip_code": "42338",
+      "distance": 95.744,
+      "city": "Dundee",
+      "state": "KY"
+    }
+  ]
+}
