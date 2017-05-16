@@ -6,7 +6,7 @@ const results = 5000 // the api returns a max of 5000 users
 
 const getRandos = () => {
   rp({ // make http call
-    uri: `https://randomuser.me/api/?nat=us&results=${results}&inc=name,email,location,picture`,
+    uri: `https://randomuser.me/api/?nat=us&results=${results}&inc=name,email,location,picture, login`,
     json: true
   })
   .then((data) => { // send to factory for any alterations
