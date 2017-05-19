@@ -1,15 +1,16 @@
 'use strict'
 
-const instrList = require('./instruments.json')
+const instrumentList = require('./instruments.json')
+const zipCodesNearNashville = require('./just-zips.json')
+const getRandomInstrument = () => {
+  return instrumentList[Math.floor(Math.random() * instrumentList.length)].instrument
+}
+const isUserNearNashville = (user) => {
+  return zipCodesNearNashville.includes((user.location.postcode).toString())
+}
 
-module.exports.factory = (array) => {
-    // import an array of zip codes (codes within 100 miles of nashville, in this case)
-  let zipArray = require('./just-zips.json')
-    // add a random item from list to each user
-  array.map(x => x.instrument = instrList[Math.floor(Math.random() * instrList.length)].instrument)
-    // remove any users not within the imported array of zip codes
-  let newArray = array.filter(y => (zipArray.includes((y.location.postcode).toString()) === true ? y : false))
-
-  console.log("number of users added:", newArray.length)
-  return newArray
+module.exports.factory = (users) => {
+  return users
+    .map(user => user.instrument = getRandomInstrument())
+    .filter(user => isUserNearNashville(user))
 }
